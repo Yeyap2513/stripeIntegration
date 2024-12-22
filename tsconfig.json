@@ -22,7 +22,7 @@
     "baseUrl": ".",
     "paths": {
       "types": [
-        "src/app/types/index.ts"
+        "src/types/index.ts"
       ]
     },
     "plugins": [
