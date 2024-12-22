@@ -16,13 +16,15 @@
         "@emotion/styled": "^11.14.0",
         "@mui/icons-material": "^6.2.0",
         "@mui/material": "^6.2.0",
+        "@stripe/react-connect-js": "^3.3.19",
         "front-matter": "^4.0.2",
         "glob": "^10.4.2",
         "js-yaml": "^4.1.0",
         "markdown-to-jsx": "^7.7.1",
         "next": "^15.1.0",
         "react": "^19.0.0",
-        "react-dom": "^19.0.0"
+        "react-dom": "^19.0.0",
+        "stripe": "^17.5.0"
     },
     "devDependencies": {
         "@stackbit/cms-git": "^1.0.2",
